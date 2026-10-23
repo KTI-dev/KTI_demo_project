@@ -4,4 +4,4 @@ This is a demo project created to gain skills in working with Git.
 
 ---
 
-Askar Khusnulin
+Askar Khusnulin IU4-13/6
